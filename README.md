@@ -7,3 +7,4 @@ hosting of typedoc generated documentation for `@carrot-protocol` packages on np
 ## DEVELOPMENT
 
 - copy and paste the doc/ directory after generating in the protocol repo
+- run locally: `pushd docs && npx http-server`
